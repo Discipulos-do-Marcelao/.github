@@ -7,7 +7,7 @@ Seguinte, esse grupo foi criado por 5 desenvolvedores que são amigos desde o en
 Temos um total de 5 ~cornos~ integrantes nesse time, sendo eles:
 
 <a href="https://github.com/Kv1ecz/" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/Kv1ecz.png" style="border-radius: 16px;" width="180" height="180" />
+    <img src="https://github.com/Kv1ecz.png" width="180" height="180" />
 </a>
 
 **Luís Felipe Leal**
@@ -17,7 +17,7 @@ O que esse corno gosta: Linkin Park e um bom Metal e Rock no geral, vôlei, basq
 O que esse louco sabe: React, TypeScript, JavaScript, NodeJS, MySQL, MongoDB, HTML, CSS, TailwindCSS e afins...
 
 <a href="https://github.com/H3rmel/" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/H3rmel.png" style="border-radius: 16px;" width="180" height="180" />
+    <img src="https://github.com/H3rmel.png"  width="180" height="180" />
 </a>
 
 **Isaac Hermel**
@@ -27,7 +27,7 @@ O que esse corno gosta: Imagine Dragons e um bom Indie e Rock, vôlei, basquete 
 O que ele sabe: React, TypeScript, JavaScript, Bootstrap, NodeJS, MySQL, HTML, CSS, C# e Blazor (ele não admite saber esses 2 últimos)...
 
 <a href="https://github.com/IuryXavielPereira/" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/IuryXavielPereira.png" style="border-radius: 16px;" width="180" height="180" />
+    <img src="https://github.com/IuryXavielPereira.png" width="180" height="180" />
 </a>
 
 **Iury Xaviel**
@@ -37,7 +37,7 @@ O que esse puto gosta: 100% Metaleiro esse bicho, nasceu batendo cabelo, gosta d
 O que ele sabe fazer: React, JavaScript, HTML, CSS, GTM, Spring Boot e MySQL...
 
 <a href="https://github.com/hollowrm08/" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/hollowrm08.png" style="border-radius: 16px;" width="180" height="180" />
+    <img src="https://github.com/hollowrm08.png" width="180" height="180" />
 </a>
 
 **Rodrigo Mello**
@@ -48,7 +48,7 @@ uns games.
 O que ele manja: Java, Springboot, HTML, CSS, JavaScript, React, MySQL, coisas de DevOps (não sei oque é isso, depois ele ajeita aqui) e lolis...
 
 <a href="https://github.com/JoaoCecconello/" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/JoaoCecconello.png" style="border-radius: 16px;" width="180" height="180" />
+    <img src="https://github.com/JoaoCecconello.png" width="180" height="180" />
 </a>
 
 
